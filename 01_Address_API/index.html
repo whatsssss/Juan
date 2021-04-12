@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+<body>
+    <div class="wrapper">
+        <div class="wrapper">
+            <header class="header">
+                <h1>주소 검색</h1>
+            </header>
+            <input type="text" id="postCode" placeholder="우편번호">
+            <!-- 우편번호 찾기 클릭이벤트  -->
+            <input type="button" onclick ="execDaumPostcode()" value="우편번호 찾기"><br>
+            <input type="text" placeholder="도로명주소" id="roadAddress">
+            <input type="text" placeholder="지번주소" id="jibunAddress"><br>
+            <input type="text" id="detailAddress" placeholder="상세주소">
+            <input type="text" placeholder="참고항목" id="extraAddress">
+        </div>
+    </div>
+    <script src="//t1.daumcdn.net/mapjsapi/bundle/postcode/prod/postcode.v2.js"></script>
+    <script src="index.js"></script>
+
+</body>
+</html>
