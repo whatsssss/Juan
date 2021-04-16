@@ -1,0 +1,10 @@
+D:\Juan\Juann\Cshap\210416\Managing_Car\Managing_Car\bin\Debug\Managing_Car.exe.config
+D:\Juan\Juann\Cshap\210416\Managing_Car\Managing_Car\bin\Debug\Managing_Car.exe
+D:\Juan\Juann\Cshap\210416\Managing_Car\Managing_Car\bin\Debug\Managing_Car.pdb
+D:\Juan\Juann\Cshap\210416\Managing_Car\Managing_Car\obj\Debug\Managing_Car.Form1.resources
+D:\Juan\Juann\Cshap\210416\Managing_Car\Managing_Car\obj\Debug\Managing_Car.Properties.Resources.resources
+D:\Juan\Juann\Cshap\210416\Managing_Car\Managing_Car\obj\Debug\Managing_Car.csproj.GenerateResource.cache
+D:\Juan\Juann\Cshap\210416\Managing_Car\Managing_Car\obj\Debug\Managing_Car.csproj.CoreCompileInputs.cache
+D:\Juan\Juann\Cshap\210416\Managing_Car\Managing_Car\obj\Debug\Managing_Car.exe
+D:\Juan\Juann\Cshap\210416\Managing_Car\Managing_Car\obj\Debug\Managing_Car.pdb
+D:\Juan\Juann\Cshap\210416\Managing_Car\Managing_Car\obj\Debug\Managing_Car.csprojAssemblyReference.cache
